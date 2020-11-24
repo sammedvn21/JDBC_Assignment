@@ -38,7 +38,7 @@ public class MainApp {
 			   			
 				   	    break;
 			   default:
-				   System.out.println("INVALID");
+				   System.out.println("INVALID Choice");
 				   
 			}
 		}
